@@ -23,7 +23,7 @@ I'm a web developer from Ayacucho, Peru 🇵🇪, Systems Engineering graduate f
       <td>
         <ul>
 <!--           <li>🔭 I'm currently working on a <b>Diploma Management System</b></li> -->
-          <li>🌱 I'm learning <b>Next.js</b>, <b>TypeScript</b> and <b>NestJS</b></li>
+          <li>🌱 I'm learning <b>Next.js</b> and <b>NestJS</b></li>
           <li>📫 How to reach me: <b>valladolidfabian8@gmail.com</b></li>
           <li>👨‍💻 My experience focuses on web development with interest in AI</li>
           <li>💡 I'm motivated by my passion for technology and its power to transform processes</li>

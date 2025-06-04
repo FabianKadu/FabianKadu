@@ -5,6 +5,7 @@
 
 ## 💻 Frontend Developer | Systems Engineering Graduate
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Frontend+Developer;Passionate+about+web+development;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
